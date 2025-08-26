@@ -1,0 +1,12 @@
+{jill,850}.
+{joe,157}.
+{bob,100}.
+{jack,850}.
+{rohan,157}.
+{travis,100}.
+{omer,850}.
+{chantal,157}.
+{raj,850}.
+{rita,157}.
+{laura,96}.
+{lucy,960000}.

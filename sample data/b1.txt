@@ -1,0 +1,12 @@
+{rbc,870}.
+{bmo,70}.
+{ing,200}.
+{sbi, 20}.
+{bob,878}.
+{scotiabank,70}.
+{hdfc,200}.
+{axis, 20}.
+{indusland,870}.
+{cibc,70}.
+{bom,200}.
+{pnn, 20}.
